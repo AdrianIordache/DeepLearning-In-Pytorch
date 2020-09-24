@@ -8,3 +8,5 @@ Google-Landmark-Recognition-Challenge/train/train_frequent_20/
 Google-Landmark-Recognition-Challenge/train/train_frequent_30/
 Google-Landmark-Recognition-Challenge/train/train_frequent_50/
 Google-Landmark-Recognition-Challenge/utils/
+Google-Landmark-Recognition-Challenge/models/
+Google-Landmark-Recognition-Challenge/visualizations/pretrained_models/vgg16_pretrained_no_augmentation_0.9480661749839783.pt
